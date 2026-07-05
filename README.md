@@ -10,7 +10,7 @@ Computer Science Bachelor graduate with a strong interest in Artificial Intellig
 - 🤖 Passionate about Artificial Intelligence & Computer Vision
 - 💻 Full-Stack Developer (React & Django)
 - 📱  Mobile Development with Flutter
-- 🌱 Currently learning Data Science, Generative AI and Advanced Machine Learning
+- 🌱 Currently learning Data Science, Agentic AI and Advanced Machine Learning
 
 ## Tech Stack
 
